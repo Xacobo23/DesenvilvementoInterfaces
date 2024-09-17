@@ -1,0 +1,42 @@
+#cruz{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+
+}
+#p{
+    padding-left: 10px;
+}
+#texto{
+    padding: 10px;
+}
+body{
+    height: max-content;
+}
+
+dialog{
+    padding: 0;
+}
+
+#cerrar{
+    border: 0;
+    color: black;
+    background-color: whitesmoke;
+}
+#cerrar:hover{
+    background-color: red ;
+    color: white;
+}
+
+.modal{
+    text-align:center;
+    padding:0!important;         
+}
+
+#modal{
+    text-align: start;
+    width: 300px;
+}
+h2{
+    text-align: center;
+}
